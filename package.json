@@ -1,5 +1,5 @@
 {
-  "name": "mobx-react-typescript-boilerplate",
+  "name": "mobx-react-starterkit",
   "version": "1.0.0",
   "description": "Boilerplate for MobX + React project with Typescript, ES6 compilation and hot code reloading",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobxjs/mobx-react-typescript-boilerplate.git"
+    "url": "https://github.com/TimLuo465/mobx-react-starterkit.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "mobx",
     "starter-kit"
   ],
-  "author": "Michel Weststrate <mweststrate@gmail.com> (http://github.com/mweststrate)",
+  "author": "Tim Luo <timluo465@gmail.com> (http://github.com/TimLuo465)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mobxjs/mobx/issues"
+    "url": "https://github.com/TimLuo465/mobx-react-starterkit/issues"
   },
-  "homepage": "http://mobxjs.github.com/mobx",
+  "homepage": "https://github.com/TimLuo465/mobx-react-starterkit",
   "devDependencies": {
     "@types/react": "^16.3.11",
     "awesome-typescript-loader": "^3.2.1",
