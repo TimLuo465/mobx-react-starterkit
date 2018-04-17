@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "outDir": "dist",
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules",
+    "static",
+    "dist"
+  ]
+}
