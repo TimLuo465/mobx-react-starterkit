@@ -1,2 +1,2 @@
-# react-starter-kit
-react starter kit
+# mobx-react-starterkit
+
