@@ -5,6 +5,7 @@
     "experimentalDecorators": true,
     "jsx": "react",
     "outDir": "dist",
+    "rootDirs": ["src"],
     "moduleResolution": "node"
   },
   "exclude": [
