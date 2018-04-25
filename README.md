@@ -2,7 +2,9 @@
 
 ### Scripts
 
-``dts`` - Reference
+1. ``dts``
+
+#### Reference
 
 ``yarn global add typed-css-modules``
 or

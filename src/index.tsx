@@ -5,6 +5,8 @@ import { Provider } from 'mobx-react';
 import store from "./store";
 import router from "./router";
 
+import "./global.less";
+
 const root = (
   <Provider {...store} >
     {router}

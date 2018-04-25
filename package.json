@@ -32,6 +32,8 @@
     "awesome-typescript-loader": "^3.2.1",
     "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "less": "^3.0.2",
     "less-loader": "^4.1.0",
     "postcss-loader": "^2.1.4",
     "style-loader": "^0.21.0",
